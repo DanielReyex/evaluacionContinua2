@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Registro</string>
-    <string name="login_username">Username</string>
-    <string name="login_password">Password</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_button">Acceso</string>
+    <string name="login_cancel_button">Cancelar</string>
+    <string name="login_error_message">Error</string>
 </resources>
