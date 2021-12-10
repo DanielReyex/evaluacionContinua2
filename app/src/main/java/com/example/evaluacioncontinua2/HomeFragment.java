@@ -26,4 +26,9 @@ public class HomeFragment extends Fragment {
         }
     }
 
+     @Override
+    public void onCreateOptionsMenu(Menu menu,MenuInflater menuInflater){
+        menuInflater.inflate(R.menu.toolbar_menu,menu);
+        super.onCreateOptionsMenu(menu,menuInflater);
+     }
 }
